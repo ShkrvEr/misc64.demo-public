@@ -1,6 +1,6 @@
 # Структура misc64.demo
 
-Это каркас проекта из спецификации. Сейчас он только запускается; виртуальные инструкции пока не реализованы.
+Это каркас проекта из спецификации
 
 Из папки проекта:
 
@@ -19,4 +19,4 @@ dotnet run -- --watch history
 dotnet build
 ```
 
-Открыть в Visual Studio можно файл `VmProject.csproj` или папку `C:\Desktop\riscv64.demo`.
+Открыть в Visual Studio можно файл `VmProject.csproj` или папку `C:\Desktop\misc64.demo`.
